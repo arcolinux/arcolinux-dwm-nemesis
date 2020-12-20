@@ -1,4 +1,4 @@
-dwm-alfhasystray
+dwm-alphasystray
 dwm-autostart
 dwm-center
 dwm-r1615-selfstart
@@ -6,3 +6,4 @@ dwm-cyclelayouts
 dwm-shiftview
 dwm-fullgaps
 dwm-gridmode (#include "layouts.c" above layouts to work, gaps does not work in this layout)
+dwm-viewontag
